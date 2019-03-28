@@ -1,4 +1,4 @@
-var num = praseInt(process.argv[2], 10) ;
+var num = parseInt(process.argv[2], 10) ;
 var length = process.argv[3] ;
 
 function randomPassword(span) {
