@@ -14,5 +14,7 @@ function randomPassword(span) {
 for(var i = 0; i < num; i++ ){
   randomPassword(length)
 }
+//full disclosure. I didn't write this password generation algorithm. I just copied it from https://jsfiddle.net/Guffa/DDn6W/
+// shoutouts to Goran Andersson from Bondfallet, Vastmanlands lan, Sweden.
 
 process.exit(0) ;
