@@ -1,5 +1,5 @@
-var num = parseInt(process.argv[2], 10) ;
-var length = process.argv[3] ;
+var num = parseInt(process.argv[3], 10) ;
+var length = process.argv[2] ;
 
 function randomPassword(span) {
     var chars = "abcdefghijklmnopqrstuvwxyz!@#$%^&*()-+<>ABCDEFGHIJKLMNOP1234567890";
